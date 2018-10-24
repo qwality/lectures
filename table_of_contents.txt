@@ -2,8 +2,9 @@
 2. imperative programing and difference between programing languages
 3. python installation
 3. hello world
-4. variables and types
-5. print
+-5. variables and types
+-6. print
+-7. operators
 5. if statements
 6. loops
 7. collections
