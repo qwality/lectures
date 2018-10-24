@@ -1,0 +1,24 @@
+1. what is programing
+2. imperative programing and difference between programing languages
+3. hello world
+4. variables and types
+5. print
+5. if statements
+6. loops
+7. collections
+8. string
+9. functions
+10. basic IO
+11. classes
+11. briefly about standard library
+12. main
+12. lambda
+13. map
+14. list comprehensions
+14. inheritance
+15. try catch exceptions
+16. files
+17. iterators and generators
+18. __methods
+19. io redirection and command line arguments
+20. functional programing
