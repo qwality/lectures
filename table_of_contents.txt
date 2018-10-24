@@ -1,5 +1,6 @@
 1. what is programing
 2. imperative programing and difference between programing languages
+3. python installation
 3. hello world
 4. variables and types
 5. print
