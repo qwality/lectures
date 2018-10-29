@@ -3,7 +3,7 @@
 3. python installation
 3. hello world
 4. IDES
--5. variables and types
+-5. variables and types # todo # _private
 -6 comments
 -7. print
 -8. operators
